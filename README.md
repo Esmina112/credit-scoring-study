@@ -28,7 +28,7 @@
 
 ## Структура проекта
 credit-scoring-study/
-├── notebooks/           # Jupyter Notebook с анализом
+├── notebooks/           # Jupyter Notebook с анализом данных. Будет заполняться при начале работы с датасетами.
 ├── .gitignore          # Исключает временные файлы и датасеты
 └── README.md           # Описание проекта
 
